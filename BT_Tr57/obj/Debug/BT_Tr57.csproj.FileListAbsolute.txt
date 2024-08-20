@@ -1,0 +1,10 @@
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\bin\Debug\BT_Tr57.exe.config
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\bin\Debug\BT_Tr57.exe
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\bin\Debug\BT_Tr57.pdb
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.csproj.AssemblyReference.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.frmButtons.resources
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.Properties.Resources.resources
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.csproj.GenerateResource.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.csproj.CoreCompileInputs.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.exe
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr57\obj\Debug\BT_Tr57.pdb

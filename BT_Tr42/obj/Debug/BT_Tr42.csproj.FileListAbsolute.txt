@@ -1,0 +1,10 @@
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\bin\Debug\BT_Tr42.exe.config
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\bin\Debug\BT_Tr42.exe
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\bin\Debug\BT_Tr42.pdb
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.csproj.AssemblyReference.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.frmSubmit.resources
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.Properties.Resources.resources
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.csproj.GenerateResource.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.csproj.CoreCompileInputs.cache
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.exe
+D:\BIN\Bài tập các môn học\C#\2212353_NguyenTienDat_BT\BT_Tr42\obj\Debug\BT_Tr42.pdb

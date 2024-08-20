@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\bin\Debug\BT_Tr56.exe.config
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\bin\Debug\BT_Tr56.exe
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\bin\Debug\BT_Tr56.pdb
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.frmDemoRadioButton.resources
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.exe
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_BT\BT_Tr56\obj\Debug\BT_Tr56.pdb
